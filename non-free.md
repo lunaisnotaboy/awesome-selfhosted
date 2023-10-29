@@ -91,7 +91,7 @@
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
-- [Bookwyrm](https://joinbookwyrm.com/) - Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `⊘ Proprietary` `Python`
+- [Bookwyrm](https://joinbookwyrm.com/) - Social network for tracking your reading, talking about books, writing reviews, and discovering what to read next. ([Source Code](https://github.com/bookwyrm-social/bookwyrm)) `Anti-Capitalist Software License` `Python`
 - [Ubooquity](https://vaemendis.net/ubooquity/) - Free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `⊘ Proprietary` `Java`
 
 
